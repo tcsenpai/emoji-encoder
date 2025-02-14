@@ -1,6 +1,6 @@
 # Emoji Encoder
 
-This is a fork of [Emoji Encoder](https://github.com/matt-west/emoji-encoder) with some changes to the codebase.
+This is a fork of [Emoji Encoder](https://github.com/paulgb/emoji-encoder) with some changes to the codebase.
 
 The original repository implements https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/ and is made by the author of the article.
 
